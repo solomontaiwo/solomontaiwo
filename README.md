@@ -3,16 +3,16 @@
 <a href="https://solomontaiwo.github.io/">Check out my webpage</a>
 
 <a href="https://github.com/solomontaiwo/The-Artist-Room">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=The-Artist-Room" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=The-Artist-Room&theme=transparent" />
 </a>
 <a href="https://github.com/solomontaiwo/Che-weekend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=bibliotecaUNIFE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=bibliotecaUNIFE&theme=transparent" />
 </a>
 <a href="https://github.com/solomontaiwo/QR-code-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=QR-code-generator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=QR-code-generator&theme=transparent" />
 </a>
 <a href="https://github.com/solomontaiwo/Che-weekend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=Che-weekend" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=Che-weekend&theme=transparent" />
 </a>
 
 <br/>
