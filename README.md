@@ -2,4 +2,4 @@
 
 <a href="https://solomontaiwo.github.io/">Check out my webpage</a>
 
-[![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomontaiwo)](https://github.com/solomontaiwo/github-readme-stats)
+![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomontaiwo&theme=transparent)
