@@ -1,6 +1,8 @@
 # I'm Solomon, welcome to my Github profile
 
-<a href="https://solomontaiwo.github.io/">Check out my webpage</a>
+<div style="text-align:center"><a href="https://solomontaiwo.github.io/">Check out my webpage</a></div>
+
+<hr/>
 
 <a href="https://github.com/solomontaiwo/The-Artist-Room">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=The-Artist-Room&theme=transparent" width="400" height="150"/>
