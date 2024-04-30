@@ -1,7 +1,8 @@
 # I'm Solomon, welcome to my Github profile
 <a href="https://solomontaiwo.github.io/">Check out my webpage</a>
 
-![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomontaiwo&show_icons=true&theme=iceberg&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomontaiwo&layout=compact)
+![solomontaiwo's Stats](https://github-readme-stats.vercel.app/api?username=solomontaiwo&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=solomontaiwo&theme=iceberg)](https://git.io/streak-stats)
+![solomontaiwo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=solomontaiwo&theme=nord&hide_border=true)
+
+![solomontaiwo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solomontaiwo&theme=nord&show_icons=true&hide_border=true&layout=compact)
