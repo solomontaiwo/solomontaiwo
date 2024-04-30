@@ -15,10 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=Che-weekend" />
 </a>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=The-Artist-Room)](https://github.com/solomontaiwo/The-Artist-Room)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=Che-weekend)](https://github.com/solomontaiwo/Che-weekend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=bibliotecaUNIFE)](https://github.com/solomontaiwo/bibliotecaUNIFE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=QR-code-generator)](https://github.com/solomontaiwo/QR-code-generator) -->
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=solomontaiwo&theme=transparent" />
