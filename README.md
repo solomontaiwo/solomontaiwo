@@ -1,4 +1,4 @@
-# solomon-taiwo
+# Solomon Taiwo
 Repository for Github frontpage
 
 ![solomontaiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomontaiwo&show_icons=true&theme=iceberg&rank_icon=github)
