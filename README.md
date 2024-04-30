@@ -1,6 +1,4 @@
-# I'm Solomon, welcome to my Github profile
-
-<a href="https://solomontaiwo.github.io/" align="center">Check out my webpage</a>
+# I'm Solomon, welcome. <a href="https://solomontaiwo.github.io/">Check out my webpage</a>
 
 <hr/>
 
