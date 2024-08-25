@@ -5,14 +5,14 @@
 <a href="https://github.com/solomontaiwo/The-Artist-Room">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=The-Artist-Room&theme=transparent" width="400" height="150"/>
 </a>
-<a href="https://github.com/solomontaiwo/Che-weekend">
+<a href="https://github.com/solomontaiwo/BibliotecaUNIFE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=bibliotecaUNIFE&theme=transparent" width="400" height="150"/>
 </a>
 <a href="https://github.com/solomontaiwo/QR-code-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=QR-code-generator&theme=transparent" width="400" height="150"/>
 </a>
-<a href="https://github.com/solomontaiwo/Che-weekend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=Che-weekend&theme=transparent" width="400" height="150"/>
+<a href="https://github.com/solomontaiwo/SoldiSotto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=SoldiSotto&theme=transparent" width="400" height="150"/>
 </a>
 
 <hr/>
