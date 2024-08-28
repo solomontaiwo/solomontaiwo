@@ -8,8 +8,8 @@
 <a href="https://github.com/solomontaiwo/BibliotecaUNIFE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=bibliotecaUNIFE&theme=transparent" width="400" height="150"/>
 </a>
-<a href="https://github.com/solomontaiwo/QR-code-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=QR-code-generator&theme=transparent" width="400" height="150"/>
+<a href="https://github.com/solomontaiwo/i-consigli-della-nonna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=i-consigli-della-nonna&theme=transparent" width="400" height="150"/>
 </a>
 <a href="https://github.com/solomontaiwo/SoldiSotto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solomontaiwo&repo=SoldiSotto&theme=transparent" width="400" height="150"/>
