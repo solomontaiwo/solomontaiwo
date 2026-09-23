@@ -2,7 +2,7 @@
 
 Software Engineer focused on building clean, reliable web applications and data-driven products.
 
-Portfolio: [solomontaiwo.github.io](https://solomontaiwo.github.io/)
+Portfolio: [solomontaiwo.com](https://solomontaiwo.com/)
 
 ## Live Projects
 
